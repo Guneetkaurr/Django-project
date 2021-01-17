@@ -1,4 +1,4 @@
 # Django-project
 
-Batch A  - customize django admin with python
+Final project for submission
 
